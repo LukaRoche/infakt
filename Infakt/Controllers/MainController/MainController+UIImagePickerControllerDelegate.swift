@@ -5,6 +5,7 @@
 //  Created by Łukasz Stoiński on 28/07/2025.
 //
 
+import UIKit
 import WebKit // Import the WebKit framework for WKWebView
 
 // MARK: - UIImagePickerControllerDelegate & UINavigationControllerDelegate (Image Selection Handling)
